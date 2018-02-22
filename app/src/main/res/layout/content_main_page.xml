@@ -9,5 +9,9 @@
     tools:showIn="@layout/activity_main_page">
 
 
-
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/synergia_icon" />
 </android.support.v4.widget.NestedScrollView>
